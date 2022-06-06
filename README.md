@@ -14,3 +14,11 @@ The primary focus of this reposity concerns only the portion of the course where
 * Hypothesis Testing
 * Categorical Data Analysis
 * Correlation and Regression
+
+# Navigating The Repository
+
+| Folders In Repository | Information In Each Folder |   |   |   |
+|-----------------------|----------------------------|---|---|---|
+| Lecture Notes         | <ul><li>Intro</li></ul>    |   |   |   |
+|                       |                            |   |   |   |
+|                       |                            |   |   |   |
