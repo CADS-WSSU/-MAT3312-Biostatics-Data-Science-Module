@@ -27,5 +27,5 @@ The primary focus of this reposity concerns only the portion of the course where
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-*[Felicia Simpson, Instructor of this module and Associate Professor of Mathematics as Winston-Salem State University](mailto:griffinfr@wssu.edu)
-*[Debzani Deb, Founding Director of the Center for Applied Data Science](mailto:debd@wssu.edu)
+* [Felicia Simpson, Instructor of this module and Associate Professor of Mathematics as Winston-Salem State University](mailto:griffinfr@wssu.edu)
+* [Debzani Deb, Founding Director of the Center for Applied Data Science](mailto:debd@wssu.edu)
