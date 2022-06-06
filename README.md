@@ -1,2 +1,2 @@
 # MAT3312-Biostatics-Data-Science-Module
-This is a module containing the material regarding data science modules implemented as a part of WSSU's Center for Applied Data Science Faculty Adopter program.
+This is a repository containing the material regarding data science modules implemented as a part of Winston-Salem State University's Center for Applied Data Science (CADS) Faculty Adopter program. The Faculty Adopter Program is designed to support enthusiastic faculty who are willing to infuse data science into their courses across various disciplines and are capable of quantitatively and qualitatively assessing the impact of their interventions. This particular module follows a data science infusion of a course in Biostatistics as taught by Dr. Felicia Simpson.
