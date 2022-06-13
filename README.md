@@ -5,15 +5,9 @@ This respository contains the data science infusion adopter modules of a course 
 
 The topics in this course include: data collection, descriptive statistics, statistical inference, probability, hypothesis testing, categorical data analysis, regression/correlation methods, and design and analysis techniques for epidemiologic studies.
 # Learning Outcomes
-Upon completion of the course, students will be able to describe basic concepts of probability,
-random variation and commonly used statistical probability distributions. Students will learn
-concepts of sampling distributions and additional applications of the central limit theorem. In
-addition, students will be able to select and perform the appropriate descriptive and inferential
-statistical methods in selected study design settings. As a data science learning outcome, students
-will be able to appropriately store, manage, manipulate and process data for data analysis using
-statistical software. Further, students will be able to perform, interpret and report the findings of
-selected statistical analyses such as descriptive statistics, hypothesis testing, regression analyses
-and epidemiologic tables using public health and biomedical data.
+* Students will be able to appropriately store, manage, manipulate and process data for data analysis using statistical software. 
+* Students will be able to perform, interpret and report the findings of selected statistical analyses such as descriptive statistics, hypothesis testing, regression analyses and epidemiologic tables using public health and biomedical data.
+
 
 # Data Science Infusion
 The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. These modules are classified into four broad areas:
